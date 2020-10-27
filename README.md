@@ -27,6 +27,13 @@ polskiego dla spaCy (dostępny jest też mniejszy
 model `pl_core_news_sm` i spory model
 `pl_core_news_lg`; im większy model, tym wolniej
 wszystko działa, za to wyniki są poprawniejsze).
+Русскоговорящим студентам предлагается
+использовать модель `ru2` и образец программы
+[`zadanie_ru.py`](zadanie_ru.py). Установка
+модели описана [здесь](https://github.com/buriy/spacy-ru).
+В частности, ей нужно `pip install spacy==2.1.9`.
+Для української мови поки немає безкоштовних
+моделей.
 
    ```
    pip install colorama
