@@ -124,3 +124,10 @@ Proszę przy tym pominąć stronę bierną w stopce
 redakcyjnej, czyli „Utwór **[opracowany został]**
 w ramach projektu Wolne Lektury przez fundację
 Nowoczesna Polska.” itd.
+
+9. Zadanie dodatkowe: porównać wyniki otrzymane
+z użyciem dwu modeli `pl_core_news_*` różnej wielkości.
+W sprawozdaniu albo napisać, że wyniki niczym się
+nie różnią, albo podać trzy przykładowe różnice.
+Так как у русской модели нет вариантов, те кто
+с ней работал, получают бонус автоматически.
