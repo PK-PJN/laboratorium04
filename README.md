@@ -111,9 +111,15 @@ bierną, należy kolejno:
     bezpośrednio po segmencie, czyli
     `token.whitespace_`; nie zapomnieć o `end=''`
 
-8. W sprawozdaniu zamieścić kompletną treść programu
-i po trzy przykłady strony biernej poprawnie
-i niepoprawnie oznaczonej w wybranej książce.
+8. W sprawozdaniu należy zamieścić:
+
+    * tytuł książki, z której pochodzą przykłady
+
+    * kompletną treść programu
+
+    * po trzy przykłady strony biernej poprawnie
+    i niepoprawnie oznaczonej w wybranej książce
+
 Proszę przy tym pominąć stronę bierną w stopce
 redakcyjnej, czyli „Utwór **[opracowany został]**
 w ramach projektu Wolne Lektury przez fundację
