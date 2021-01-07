@@ -113,17 +113,15 @@ bierną, należy kolejno:
 
 8. W sprawozdaniu należy zamieścić:
 
-    * tytuł książki, z której pochodzą przykłady
+    * tytuł książki, z której pochodzą przykłady;
 
-    * kompletną treść programu
+    * treść programu opracowanego w ramach laboratorium;
 
-    * po trzy przykłady strony biernej poprawnie
-    i niepoprawnie oznaczonej w wybranej książce
-
-Proszę przy tym pominąć stronę bierną w stopce
-redakcyjnej, czyli „Utwór **[opracowany został]**
-w ramach projektu Wolne Lektury przez fundację
-Nowoczesna Polska.” itd.
+    * trzy przykłady z wybranej książki, w których opracowany
+    program prawidłowo rozpoznał stronę bierną;
+    
+    * trzy przykłady z wybranej książki, w których opracowany
+    program nieprawidłowo rozpoznał stronę bierną.
 
 9. Zadanie dodatkowe: porównać wyniki otrzymane
 z użyciem dwu modeli `pl_core_news_*` różnej wielkości.
